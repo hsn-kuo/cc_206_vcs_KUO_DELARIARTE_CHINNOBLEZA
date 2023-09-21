@@ -1,3 +1,7 @@
+// HSIEN-NA KUO : "Live a life you will remember."
+// RJ DELARIARTE : "What you think, you become. What you feel, you attract. What you imagine, you create."
+// JASPER ANGELO CHINNOEBLEZA : " You are what you believe yourself to be" - Paul Coelho
+
 import 'package:flutter/material.dart';
 
 void main() {
